@@ -1,5 +1,5 @@
 # NBA-Final-Four-Hall-of-Fame-Predictor
-**Basketball team finalist predictor; ****Link to dataset is provided as cbb.csv**
+**Basketball team finalist predictor; Link to dataset is provided as cbb.csv**
 
 The Python machine learning project using Pandas, NumPy, and Scikit-Learn is designed to analyze a database of various basketball teams and make predictions on which teams are likely to reach the finals based on their different properties.
 
